@@ -1,6 +1,6 @@
 # Hi
 
-💻Html, basic JS and bash#<br />
+💻Html, bash, basic JS and python#<br />
 🐧Proud Arch Linux User **btw**<br />
 🛠️Made absolutely nothing of note!
 
